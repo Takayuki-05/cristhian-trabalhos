@@ -47,29 +47,40 @@
                 <div class="col-sm-2" style="background-color:pink">
                      <b>ações</b>
                </div>
-            
+                </div>
+
 <!------------------------------------------------------------------------------------------------------------------------------------------------->
 
              <!--LINHA(S) DO(S) REGISTROS (PRODUTOS)-->
+             <br>
+             <div class="row">
+                <!--LINHA DO CABEÇALHO DA TABELA (DIVI)-->
+                <!--DIV DA FOTO DO PRODUTO-->
+
              <div class="col-sm-2">
                 <img src="https://paesnovorio.com.br/web/image/product.template/466/image_1024?unique=e45346a" class="img-fluid" style="border-radius: 5px;">"
             </div>
 
+            <!---DIV PARA APRESENTAR O NOME DO PRODUTO-->
              <div class="col-sm-6">
                 pão francês com gergelim (kg)
             </div>
-            
+
+             <!---DIV PARA APRESENTAR O PREÇO DO PRODUTO-->
              <div class="col-sm-2">
                 R$ 14,99
             </div>
 
+             <!---DIV PARA AÇÕES REFERENTES AO PRODUTO -->
             <div class="col-sm-2">
                 <a href="paofrancescomgergelim.php">
-                    <button class="btn btn-success">Ver mais</button>
+                    <button class="btn btn-success">
+                        Ver mais
+                    </button>
                 </a>    
             
             </div>
-
+        </div>
        </div>
     </body>
 <html>
