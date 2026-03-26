@@ -24,14 +24,14 @@
 					</li>
 
 					<li class="breadcrumb-item"><a href="#" style="text-decoration: none; color: #363636;"><b>Lista de produtos</b></a></li>
-					<li class="breadcrumb-item active" aria-current="page">Pão Francês com gergelim (kg)</li>
+					<li class="breadcrumb-item active" aria-current="page">Bolo de chocolate (kg)</li>
 				</ol>
 			</nav>
 			<br>
 			<div class="row">
 				<div class="col-sm-6">
 					<!-- Imagem do produto -->
-					<img src="https://paesnovorio.com.br/web/image/product.template/466/image_1024?unique=e45346a" class="img-fluid" style="border-radius: 5%;">
+					<img src="https://recipesblob.oetker.com.br/assets/a81bc035eb7f407faaa2c93e04edaf78/750x910/bolo-de-aniversrio-de-chocolate.jpg" class="img-fluid" style="border-radius: 5%;">
 				</div>
 				<div class="col-sm-6">
 					<h3><b>Bolo de chocolate</b></h3>
@@ -59,9 +59,9 @@
 					
 					<small>(4.5/5.0) 392 avaliações.</small>
 					<br><br>
-					<h5><s><b>Preço:</b> R$ 15,99 (kg)</s></h5>
+					<h5><s><b>Preço:</b> R$ 20,00 (kg)</s></h5>
 					<h4 style="color: #7849b0;">
-						<b>Preço:</b> R$ 12,79 (kg) à vista no pix.
+						<b>Preço:</b> R$ 15,59 (kg) à vista no pix.
 						<span class="badge text-bg-warning">&nbsp;20% OFF&nbsp;</span>
 					</h4>
 					
@@ -77,30 +77,18 @@
 					<h5>Descrição do produto</h5>
 					<br>
 					<p align="justify">
-						Descubra o equilíbrio perfeito entre a tradição da padaria brasileira e um toque especial de sabor e 
-						crocância. Nosso Pão Francês com Gergelim é preparado artesanalmente com a receita clássica que você 
-						já conhece e ama: casca dourada e crocante, miolo macio e aerado, e aquele aroma inconfundível de pão 
-						fresquinho saindo do forno. A grande estrela aqui é a generosa camada de gergelim que cobre a superfície, 
-						que não apenas adiciona um charme rústico e visual atraente, mas também proporciona uma explosão de 
-						sabor suave e levemente amendoado a cada mordida. Perfeito para o café da manhã ou lanche da tarde, ele é 
-						a base ideal para elevar qualquer refeição a um novo patamar de prazer gastronômico.
+						À primeira vista, o que impressiona é a cor marrom profunda e intensa, quase ebânea, que promete uma experiência rica em cacau. 
+						A cobertura — seja um ganache brilhante ou um brigadeiro aveludado — escorre preguiçosamente pelas laterais, criando ondas que refletem a luz. 
+						Por cima, raspas de chocolate meio amargo ou uma leve chuva de granulados artesanais dão o toque final de sofisticação.
 					</p>
 					<p align="justify">
-						A versatilidade deste pão é um de seus maiores trunfos. Ele é o companheiro ideal tanto para preparações 
-						simples quanto para criações mais elaboradas. Passe levemente na manteiga e sinta a combinação do sal com 
-						o toque do gergelim derretendo na boca, ou use-o como base para sanduíches gourmet. Sua estrutura firme, 
-						porém macia, segura perfeitamente recheios suculentos sem desmanchar, desde um clássico misto quente até 
-						um sofisticado sanduíche de rosbife com rúcula e mostarda. As sementes de gergelim ainda conferem uma 
-						textura extra que surpreende o paladar, tornando cada mordida uma experiência única e inesquecível.
+						Ao cortar a primeira fatia, a faca desliza sem resistência. 
+						A massa é úmida e aerada, com aquele equilíbrio perfeito: nem tão leve que suma na boca, nem tão densa que pese. 
+						É uma textura "fofinha", mas com uma estrutura que sustenta bem o recheio cremoso.
 					</p>
 					<p align="justify">
-						Além do sabor incomparável, nosso pão francês com gergelim é sinônimo de qualidade e frescor. Utilizamos 
-						ingredientes selecionados e assamos em fornadas controladas ao longo do dia para garantir que você receba 
-						um produto com a textura e o aroma de padaria, como se tivesse acabado de ser comprado. Para preservar ao 
-						máximo suas características, recomendamos consumi-lo no dia da compra ou armazená-lo em saco de papel em 
-						temperatura ambiente. Se preferir, pode congelá-lo ainda fresco e aquecê-lo diretamente no forno ou 
-						airfryer por alguns minutos para resgatar toda a crocância original. Experimente e transforme seus momentos 
-						à mesa!
+						Para elevar a experiência, sirva uma fatia levemente morna com uma bola de sorvete de baunilha ou uma colherada de creme de leite fresco batido.
+						 O contraste de temperaturas é irresistível.
 					</p>
 				</div>
 			</div>
