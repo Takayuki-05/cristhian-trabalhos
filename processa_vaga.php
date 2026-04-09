@@ -14,9 +14,24 @@
     - Sexo Feminino
     - Nascidos no estado de SC
     informar se o condidato é elegivel ou não*/
+    /*caso ele não esteja elegivel para a vaga 
+    <script>
+        window.alert ("candidato não prenche os requisitos!\n Verifique as regras da vaga.");
+    </script>
+
+    caso a usuária esteja elegivel
+    Apresenta uma mensagem na tela
+    "Usuária elegivel para a vaga!"*/
 
     if($idade <= 18){
-        echo "O(A) usuário(a) $nome não podera se candidatar!";}
+        echo "O(A) usuário(a) $nome é inelegivel para a vaga!";
+    } elseif($sexo != "feminino"){
+        echo "O(A) usuário(a) $nome não é elegivel para a vaga!";
+    } elseif($estado != "SC"){
+        echo "O(A) usuário(a) $nome não é elegivel para a vaga!";
+    } else
 
-
+     <script>
+        window.alert ("candidato não prenche os requisitos!\n Verifique as regras da vaga.");
+    </script>
 ?>

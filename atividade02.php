@@ -13,7 +13,7 @@
         <input type="text" name="nome" placeholder="Nome completo"><br><br>
         <br>
 
-        <small>Nome completp</small><br>
+        <small>Data de nascimento</small><br>
          <input type="date" name="data_nasc" placeholder="Data de nascimento"><br><br>
          <br>
 
@@ -24,6 +24,7 @@
              <option value="Fem">Feminino</option>
          </select>
          <br><br>
+
          <small>Naturalidade</small><br>
          <input type="text" name="cidade" placeholder="Cidade de nascimento"><br><br>
 
