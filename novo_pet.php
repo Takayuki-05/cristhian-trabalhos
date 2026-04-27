@@ -21,13 +21,95 @@
         </div>
       </div>
 
-    tipo: cachorro, gato, aves
-    raça: srd, rottweiler, etc... 
-    pelo: curto, grande, longo sem pelo
-    cor: preto branco, cinza
-    porte: pequeno, grande
-    peso:_______ kg 
-    sexo:f, m 
+       <hr>
+      <div class="row">
+        <div class="col-sm-3">
+            <small>Selecione um tipo de animal</small>
+            <select name="tipo" class="form-control">
+                <opition>Selecione um tipo...</opition>
+                <opition value="canino">Canino</opition>
+                <opition value="felino">felino</opition>]
+            </select>
+        </div>
+
+            <div class="col-sm-3">
+                <select name="raca" class="form-control">
+                    <option value="srd">Vira-lata (SRD)</option>
+                <option value="afghan hound">Afghan Hound</option>
+                <option value="akita">Akita</option>
+                <option value="american staffordshire terrier">American Staffordshire Terrier</option>
+                <option value="basset hound">Basset Hound</option>
+                <option value="beagle">Beagle</option>
+                <option value="bichon frisé">Bichon Frisé</option>
+                <option value="border collie">Border Collie</option>
+                <option value="boxer">Boxer</option>
+                <option value="buldogue francês">Buldogue Francês</option>
+                <option value="buldogue inglês">Buldogue Inglês</option>
+                <option value="bull terrier">Bull Terrier</option>
+                <option value="cane corso">Cane Corso</option>
+                <option value="carlin">Carlin</option>
+                <option value="chihuahua">Chihuahua</option>
+                <option value="chow chow">Chow Chow</option>
+                <option value="cocker spaniel">Cocker Spaniel</option>
+                <option value="dachshund (teckel)">Dachshund (Teckel)</option>
+                <option value="dálmata">Dálmata</option>
+                <option value="doberman">Doberman</option>
+                <option value="dogue alemão">Dogue Alemão</option>
+                <option value="fila brasileiro">Fila Brasileiro</option>
+                <option value="fox paulistinha">Fox Paulistinha</option>
+                <option value="golden retriever">Golden Retriever</option>
+                <option value="husky siberiano">Husky Siberiano</option>
+                <option value="labrador retriever">Labrador Retriever</option>
+                <option value="lhasa apso">Lhasa Apso</option>
+                <option value="maltês">Maltês</option>
+                <option value="mastiff inglês">Mastiff Inglês</option>
+                <option value="pastor alemão">Pastor Alemão</option>
+                <option value="pastor australiano">Pastor Australiano</option>
+                <option value="pequinês">Pequinês</option>
+                <option value="pinscher">Pinscher</option>
+                <option value="pit bull">Pit Bull</option>
+                <option value="poodle">Poodle</option>
+                <option value="rottweiler">Rottweiler</option>
+                <option value="samoieda">Samoieda</option>
+                <option value="schnauzer">Schnauzer</option>
+                <option value="shar pei">Shar Pei</option>
+                <option value="shiba inu">Shiba Inu</option>
+                <option value="shih tzu">Shih Tzu</option>
+                <option value="spitz alemão (lulu da pomerânia)">Spitz Alemão (Lulu da Pomerânia)</option>
+                <option value="staffordshire bull terrier">Staffordshire Bull Terrier</option>
+                <option value="weimaraner">Weimaraner</option>
+                <option value="west highland white terrier">West Highland White Terrier</option>
+                <option value="yorkshire terrier">Yorkshire Terrier</option>
+            
+            </div>
+
+            <div class="col-sm-3">
+                <select name="pelo" class="for">
+                    <option>Selecione a pelagem...</option>
+                    <option value="sem pelo">Sem pelo</option>
+                    <option value="sem pelo">Pelo curto</option>
+                    <option value="sem pelo">Pelo médio</option>
+                    <option value="sem pelo">Pelo longo</option>
+
+                </select>
+            
+             </div>
+
+            <div class="col-sm-3">
+                 <select name="pelo" class="for">
+                    <option>Selecione a pelagem</option>
+                    <option value="sem pelo">Branco</option>
+                    <option value="sem pelo">Preto</option>
+                    <option value="sem pelo">Marrom</option>
+                    <option value="sem pelo">Caramelo</option>
+                    <option value="sem pelo">Caramelo</option>
+                    <option value="sem pelo">Bicolor</option>
+                    <option value="sem pelo">Tricolor</option>
+
+            
+            </div>
+
+    </div>
 
    </div> 
 </body>
