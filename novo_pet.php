@@ -23,18 +23,10 @@
 
        <hr>
       <div class="row">
-        <div class="col-sm-3">
-            <small>Selecione um tipo de animal</small>
-            <select name="tipo" class="form-control">
-                <opition>Selecione um tipo...</opition>
-                <opition value="canino">Canino</opition>
-                <opition value="felino">felino</opition>]
-            </select>
-        </div>
-
             <div class="col-sm-3">
-                <select name="raca" class="form-control">
-                    <option value="srd">Vira-lata (SRD)</option>
+                <select name="raça" class="form-control">
+                <option>Selecione a raça...</option>
+                <option value="srd">Vira-lata (SRD)</option>
                 <option value="afghan hound">Afghan Hound</option>
                 <option value="akita">Akita</option>
                 <option value="american staffordshire terrier">American Staffordshire Terrier</option>
@@ -80,31 +72,30 @@
                 <option value="weimaraner">Weimaraner</option>
                 <option value="west highland white terrier">West Highland White Terrier</option>
                 <option value="yorkshire terrier">Yorkshire Terrier</option>
-            
+                </select>
             </div>
 
             <div class="col-sm-3">
                 <select name="pelo" class="for">
                     <option>Selecione a pelagem...</option>
                     <option value="sem pelo">Sem pelo</option>
-                    <option value="sem pelo">Pelo curto</option>
-                    <option value="sem pelo">Pelo médio</option>
+                    <option value="pelo curto">Pelo curto</option>
+                    <option value="pelo medio">Pelo médio</option>
                     <option value="sem pelo">Pelo longo</option>
-
+    
                 </select>
             
              </div>
 
             <div class="col-sm-3">
                  <select name="pelo" class="for">
-                    <option>Selecione a pelagem</option>
-                    <option value="sem pelo">Branco</option>
-                    <option value="sem pelo">Preto</option>
-                    <option value="sem pelo">Marrom</option>
-                    <option value="sem pelo">Caramelo</option>
-                    <option value="sem pelo">Caramelo</option>
-                    <option value="sem pelo">Bicolor</option>
-                    <option value="sem pelo">Tricolor</option>
+                    <option>Selecione a cor</option>
+                    <option value="branco">Branco</option>
+                    <option value="preto">Preto</option>
+                    <option value="marrom">Marrom</option>
+                    <option value="caramelo">Caramelo</option>
+                    <option value="bicolor">Bicolor</option>
+                    <option value="tricolor">Tricolor</option>
 
             
             </div>
@@ -112,5 +103,39 @@
     </div>
 
    </div> 
+   
+     
+
+            <div class="col-sm-3">
+                <small>Peso (kg)</small>
+                <input name="peso" class="form-control" type="text">
+
+            </div>
+            <div class="col-sm-3">
+                <select name="sexo" class="form-control">
+                    <option>Selecione o sexo...</option>
+                    <option value="macho">Macho</option>
+                    <option value="fêmea">Fêmea</option>
+                    </select>
+            </div>
+
+             <div class="col-sm-3">
+                <small>Nascimento</small>
+                <input  name="data_nasc" class="form-control "type="date" min="2004-01-01" max="2026-04-09">
+            </div>
+
+            <div class="row mt-4">
+            <div class="col-sm-3">
+                <small>Porte</small>
+                <select name="porte" class="form-control">
+                    <option>Selecione um porte...</option>
+                    <option value="pequeno">Pequeno</option>
+                    <option value="medio">Médio</option>
+                    <option value="grande">Grande</option>
+                    <option value="extra grande">Extra grande</option>
+                </select>
+            </div>
+     </div>
+   
 </body>
-</html>
+</html>                         
